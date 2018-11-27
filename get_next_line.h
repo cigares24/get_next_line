@@ -6,7 +6,7 @@
 /*   By: asicat <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/11/19 16:26:55 by asicat            #+#    #+#             */
-/*   Updated: 2018/11/23 13:46:58 by asicat           ###   ########.fr       */
+/*   Updated: 2018/11/26 13:33:22 by asicat           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 
 # include "libft/libft.h"
 
-# define BUFF_SIZE 9999
+# define BUFF_SIZE 10
 
 int		get_next_line(int fd, char **line);
 
